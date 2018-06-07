@@ -1,2 +1,2 @@
 # thesystemMOVIE
-movie booking system
+This is going to be a movie booking system for booking movies...
